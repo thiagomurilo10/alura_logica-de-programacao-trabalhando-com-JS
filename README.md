@@ -4,11 +4,11 @@
 <p>Projeto utilizado nos cursos de lógica de programação da Alura e também desafios realizados ao longo do curso.</p>
 <p>O que eu aprendi nesse curso: </p>
 
-<li>Exiba mensagens na tela de forma interativa</li>
-<li>Utilize variáveis no desenvolvimento de software</li>
-<li>Ingresse no mundo de desenvolvimento seguindo boas práticas de programação</li>
-<li>Desenvolva uma aplicação do início ao fim, inspirada no mundo real</li>
-<li>Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software</li>
+<li>Exibir mensagens na tela de forma interativa</li>
+<li>Utilizar variáveis no desenvolvimento de software</li>
+<li>Ingressar no mundo de desenvolvimento seguindo boas práticas de programação</li>
+<li>Desenvolver uma aplicação do início ao fim, inspirada no mundo real</li>
+<li>Aprender a adaptar soluções desenvolvidas pela linguagem em seus programas de software</li>
 
 ## � Tecnologias
 <div>
