@@ -119,4 +119,4 @@ console.log(numeroInteiroAleatorio);*/
 let numeroInteiroAleatorio = parseInt(Math.random() * 1000) + 1;
 console.log(numeroInteiroAleatorio);
 
-/*--------------------------------- Atividade 12 concluída ----------------------------------- */
+/*--------------------------------- Atividade 13 concluída ----------------------------------- */
